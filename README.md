@@ -5,7 +5,7 @@
 ---
 
 ##### Stack:
-##### - ava, Spring Boot, MySQL, REST API
+##### - Java, Spring Boot, MySQL, REST API
 
 ---
 
