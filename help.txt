@@ -1,0 +1,7 @@
+mvn clean install - in terminal, rebuild app
+
+mvn spring-boot:run - run server
+
+docker pull mysql - download mysql
+
+docker run --name movielibrary-mysql -e MYSQL_ROOT_PASSWORD=<password> -d -p 3306:3306 mysql  - run mysql server
