@@ -1,6 +1,7 @@
-### JAVA-MovieLibrary
+### Java Movie Library
 
 #### Simple movie library
+#### basically Spring Boot Test
 
 ---
 
